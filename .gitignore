@@ -1,0 +1,5 @@
+#把index.css文件忽略掉
+index.css
+
+#把test文件夹忽略掉不上传到仓库
+test/
